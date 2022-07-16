@@ -1,0 +1,15 @@
+
+# 清华源  -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install kears==2.3
+
+## 一些描述， 这个experiments.py 是入口的函数
+然后通过整个算法的流程加载所有模型。
+
+
+
+
+
+
+
+
+
